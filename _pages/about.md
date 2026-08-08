@@ -17,14 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am working as a lecturer at National Key Laboratory of Information Systems Engineering, College of Systems Engineering, National University of Defense Technology.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+My research interest includes complex network, graph analytics and recommender systems.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.04*: &nbsp;🎉🎉 One paper is accepted by SIGIR 2026.
 
 # 📝 Publications 
 #### 📚 Journals
@@ -63,12 +61,14 @@ My research interest includes neural machine translation and computer vision. I 
 - [An Intent-guided Collaborative Machine for Session-based Recommendation](https://dl.acm.org/doi/abs/10.1145/3397271.3401273), **Zhiqiang Pan**, Fei Cai, Yanxiang Ling, Maarten de Rijke, The 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2020. \| [**PDF**](https://speechresearch.github.io/deepsinger/)
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.12* NUDT Outstanding Ph.D. Dissertation. (国防科技大学优秀博士学位论文)
+- *2022.06* Hunan Provincial Excellent M.S. Thesis. (湖南省优秀硕士学位论文)
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.03 - 2025.06*, Ph.D, National University of Defense Technology, Changsha, China.
+- *2019.09 - 2021.12*, Master, National University of Defense Technology, Changsha, China.
+- *2015.09 - 2019.06*, Bachelor, National University of Defense Technology, Changsha, China.
 
 # 💻 Experiences
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2026.06 - Present*, Postdoc, University of Science and Technology of China.
+- *2025.06 - Present*, Lecturer, National University of Defense Technology.
