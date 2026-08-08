@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhiqiang Pan (潘志强)"
+  name             : "Zhiqiang Pan (潘志强)<br><span style="font-size: 80%;">"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Lecturer at National University of Defense Technology"
   location         : "Changsha, China"
