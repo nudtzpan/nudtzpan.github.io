@@ -17,9 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am working as a lecturer at National Key Laboratory of Information Systems Engineering, College of Systems Engineering, National University of Defense Technology.
-
-My research interest includes complex network, graph analytics and recommender systems.
+I am working as a lecturer at National Key Laboratory of Information Systems Engineering, College of Systems Engineering, National University of Defense Technology. My research interest includes complex network, graph analytics and recommender systems.
 
 # 🔥 News
 - *2026.04*: &nbsp;🎉🎉 One paper is accepted by SIGIR 2026.
