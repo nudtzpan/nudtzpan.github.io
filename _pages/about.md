@@ -27,7 +27,8 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
-#### 📚 Journals <span style="font-size: 90%;">*\* Equal Contribution, † Corresponding Author*</span>
+#### 📚 Journals
+<span style="font-size: 90%;">*\* Equal Contribution, † Corresponding Author*</span>
 - [Uncertainty-aware dynamic graph contrastive learning for node classification and anomaly detection](https://www.sciencedirect.com/science/article/abs/pii/S095219762601465X), Long Xu, **Zhiqiang Pan**, Honghui Chen, Engineering Applications of Artificial Intelligence, 2026. \| [**PDF**](https://speechresearch.github.io/deepsinger/)
 - [Similarity-aware generalization framework for zero-shot cross-domain sequential recommendation](https://www.sciencedirect.com/science/article/abs/pii/S1474034626001540), Zihao Pan, Yuzhuo Dang, Xin Zhang, **Zhiqiang Pan**, Taihua Shao, Fei Cai, Neurocomputing, 2026. \| [**PDF**](https://speechresearch.github.io/deepsinger/)
 - [Dual-space feature representation learning network for multimodal recommender systems](https://www.sciencedirect.com/science/article/abs/pii/S1474034626001540), Yuzhuo Dang, Wanyu Chen, **Zhiqiang Pan**, Xin Zhang, Yuxiao Duan, Fei Cai, Honghui Chen, Advanced Engineering Informatics, 2026. \| [**PDF**](https://speechresearch.github.io/deepsinger/)
@@ -48,7 +49,7 @@ My research interest includes neural machine translation and computer vision. I 
 - [Collaborative Graph Learning for Session-based Recommendation](https://dl.acm.org/doi/10.1145/3490479), **Zhiqiang Pan**, Fei Cai, Wanyu Chen, Chonghao Chen, Honghui Chen, ACM Transactions on Information Systems, 2022. \| [**PDF**](https://speechresearch.github.io/deepsinger/)
 - [Graph Co-Attentive Session-based Recommendation](https://dl.acm.org/doi/abs/10.1145/3486711), **Zhiqiang Pan**, Fei Cai, Wanyu Chen, Honghui Chen, ACM Transactions on Information Systems, 2021. \| [**PDF**](https://speechresearch.github.io/deepsinger/)
 
-#### 🧑‍🎨 Conferences <span style="font-size: 90%;">*\* Equal Contribution, † Corresponding Author*</span>
+#### 🧑‍🎨 Conferences
 - [MLLMRec: A Preference Reasoning Paradigm with Graph Refinement for Multimodal Recommendation](https://dl.acm.org/doi/abs/10.1145/3805712.3809749), Yuzhuo Dang, Xin Zhang, **Zhiqiang Pan**, Yuxiao Duan, Wanyu Chen, Fei Cai, Honghui Chen, The 49th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2026. \| [**PDF**](https://speechresearch.github.io/deepsinger/)
 - [Behavior Conditional Diffusion Model for Multi-Modal Recommendation](https://dl.acm.org/doi/full/10.1145/3743093.3770970), Mengfan Kong, Chonghao Chen, **Zhiqiang Pan**, Fei Cai, Aimin Luo, Proceedings of the 7th ACM International Conference on Multimedia in Asia (MMAsia), 2025. \| [**PDF**](https://speechresearch.github.io/deepsinger/)
 - [Tide: A Time-Wise Causal Debiasing Framework for Generative Dynamic Link Prediction](https://dl.acm.org/doi/abs/10.1145/3746252.3761182), Xin Zhang, Jianming Zheng, Fei Cai, **Zhiqiang Pan**, Wanyu Chen, Chonghao Chen, Honghui Chen, The 34th ACM International Conference on Information and Knowledge Management (CIKM), 2025. \| [**PDF**](https://speechresearch.github.io/deepsinger/)
