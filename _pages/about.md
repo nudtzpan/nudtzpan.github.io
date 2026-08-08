@@ -41,6 +41,10 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- ``EAAI'26`` [Uncertainty-aware dynamic graph contrastive learning for node classification and anomaly detection](https://www.sciencedirect.com/science/article/abs/pii/S095219762601465X), Long Xu, \underline{\smash{Zhiqiang Pan}}, Honghui Chen, Engineering Applications of Artificial Intelligence. \| [**PDF**](https://speechresearch.github.io/deepsinger/)
+- ``Neurocomputing'26`` [Similarity-aware generalization framework for zero-shot cross-domain sequential recommendation](https://www.sciencedirect.com/science/article/abs/pii/S1474034626001540), Zihao Pan, Yuzhuo Dang, Xin Zhang, \underline{\smash{Zhiqiang Pan}}, Taihua Shao, Fei Cai, Neurocomputing. \| [**PDF**](https://speechresearch.github.io/deepsinger/)
+- ``AEI'26`` [Dual-space feature representation learning network for multimodal recommender systems](https://www.sciencedirect.com/science/article/abs/pii/S1474034626001540), Yuzhuo Dang, Wanyu Chen, \underline{\smash{Zhiqiang Pan}}, Xin Zhang, Yuxiao Duan, Fei Cai, Honghui Chen, Advanced Engineering Informatics. \| [**PDF**](https://speechresearch.github.io/deepsinger/)
+- ``INFFUS'25`` [Multimodal Recommender Systems: A Survey of Representation, Modeling, and Optimization](https://www.sciencedirect.com/science/article/abs/pii/S156625352501053X), Lin Pan, \underline{\smash{Zhiqiang Pan}}\dag, Fei Cai, Honghui Chen \small{(\dag = Corresponding)}, Information Fusion. \| [**PDF**](https://speechresearch.github.io/deepsinger/)
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -50,9 +54,5 @@ My research interest includes neural machine translation and computer vision. I 
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
+# 💻 Experiences
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
