@@ -23,9 +23,9 @@ I am working as a lecturer at National Key Laboratory of Information Systems Eng
 - *2026.04*: &nbsp;🎉🎉 One paper is accepted by SIGIR 2026.
 
 # 📝 Publications
+<span style="font-size: 90%;">*\* Equal Contribution, † Corresponding Author*</span>
 
 #### 📚 Journals
-<span style="font-size: 90%;">*\* Equal Contribution, † Corresponding Author*</span>
 
 # - [Uncertainty-aware dynamic graph contrastive learning for node classification and anomaly detection](https://www.sciencedirect.com/science/article/abs/pii/S095219762601465X), Long Xu, **Zhiqiang Pan**, Honghui Chen, Engineering Applications of Artificial Intelligence, 2026. \| [**PDF**](https://speechresearch.github.io/deepsinger/)
 # - [Similarity-aware generalization framework for zero-shot cross-domain sequential recommendation](https://www.sciencedirect.com/science/article/abs/pii/S1474034626001540), Zihao Pan, Yuzhuo Dang, Xin Zhang, **Zhiqiang Pan**, Taihua Shao, Fei Cai, Neurocomputing, 2026. \| [**PDF**](https://speechresearch.github.io/deepsinger/)
