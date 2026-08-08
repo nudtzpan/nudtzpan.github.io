@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Lorem ipsum"
-# description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : ""
 repository               : "nudtzpan/nudtzpan.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhiqiang Pan 潘志强"
+  name             : "Zhiqiang Pan (潘志强)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lecturer at NUDT"
+  bio              : "Lecturer at National University of Defense Technology"
   location         : "Changsha, China"
   employer         :
   pubmed           : 
