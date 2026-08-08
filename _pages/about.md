@@ -52,6 +52,7 @@ I am working as a lecturer at National Key Laboratory of Information Systems Eng
 
 # 🎖 Honors and Awards
 - *2026.07* Postdoctoral Innovative Talent Support Program. (博士后创新人才支持计划)
+- *2026.07* First Prize for Technical Invention of CICC. (中国指挥与控制学会技术发明一等奖)
 - *2025.12* First Prize for Technical Invention of CICC. (中国指挥与控制学会技术发明一等奖)
 - *2025.12* NUDT Outstanding Ph.D. Dissertation. (国防科技大学优秀博士学位论文)
 - *2022.06* Hunan Provincial Excellent M.S. Thesis. (湖南省优秀硕士学位论文)
