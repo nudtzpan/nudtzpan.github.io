@@ -59,7 +59,7 @@ I am currently working as a lecturer at the National Key Laboratory of Informati
 - *2021.12* NUDT Master's Qiangjun Scholarship (国防科技大学硕士强军奖学金).
 
 # 📖 Educations
-- *2022.03 - 2025.06*, Ph.D, National University of Defense Technology, Changsha, China.
+- *2022.03 - 2025.06*, Ph.D., National University of Defense Technology, Changsha, China.
 - *2019.09 - 2021.12*, Master, National University of Defense Technology, Changsha, China.
 - *2015.09 - 2019.06*, Bachelor, National University of Defense Technology, Changsha, China.
 
