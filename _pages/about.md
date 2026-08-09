@@ -25,7 +25,7 @@ I am working as a lecturer at National Key Laboratory of Information Systems Eng
 # 📝 Selected Publications <a href="https://scholar.google.com/citations?user=A4AdBxUAAAAJ&hl=zh-CN&oi=ao" style="font-size:0.8em; text-decoration:none; font-weight:normal;"><span style="display:inline-flex; align-items:center; gap:0.15em;">(view all <i class="fas fa-fw fa-graduation-cap"></i>)</span></a>
 <span style="font-size: 90%;">*\* Equal Contribution, † Corresponding Author*</span>
 
-#### 📚 Journals
+#### 🔬 Journals
 
 - `AEI'26` [Dual-space feature representation learning network for multimodal recommender systems](https://www.sciencedirect.com/science/article/abs/pii/S1474034626001540), Yuzhuo Dang, Wanyu Chen, **Zhiqiang Pan**, Xin Zhang, Yuxiao Duan, Fei Cai, Honghui Chen, Advanced Engineering Informatics, 2026. \| [**PDF**](https://nudtzpan.github.io/files/AEI25-DRNet.pdf)
 - `INFFUS'25` [Multimodal Recommender Systems: A Survey of Representation, Modeling, and Optimization](https://www.sciencedirect.com/science/article/abs/pii/S156625352501053X), Lin Pan, **Zhiqiang Pan**†, Fei Cai, Honghui Chen, Information Fusion, 2025. \| [**PDF**](https://nudtzpan.github.io/files/INFFUS25-Survey.pdf)
@@ -38,7 +38,7 @@ I am working as a lecturer at National Key Laboratory of Information Systems Eng
 - `TOIS'22` [Collaborative Graph Learning for Session-based Recommendation](https://dl.acm.org/doi/10.1145/3490479), **Zhiqiang Pan**, Fei Cai, Wanyu Chen, Chonghao Chen, Honghui Chen, ACM Transactions on Information Systems, 2022. \| [**PDF**](https://nudtzpan.github.io/files/TOIS22-CGL.pdf)
 - `TOIS'21` [Graph Co-Attentive Session-based Recommendation](https://dl.acm.org/doi/abs/10.1145/3486711), **Zhiqiang Pan**, Fei Cai, Wanyu Chen, Honghui Chen, ACM Transactions on Information Systems, 2021. \| [**PDF**](https://nudtzpan.github.io/files/TOIS21-GCARM.pdf)
 
-#### 🧑‍🎨 Conferences
+#### 💬 Conferences
 
 - `SIGIR'26` [MLLMRec: A Preference Reasoning Paradigm with Graph Refinement for Multimodal Recommendation](https://dl.acm.org/doi/abs/10.1145/3805712.3809749), Yuzhuo Dang, Xin Zhang, **Zhiqiang Pan**, Yuxiao Duan, Wanyu Chen, Fei Cai, Honghui Chen, The 49th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2026. \| [**PDF**](https://nudtzpan.github.io/files/SIGIR26-MLLMRec.pdf)
 - `CIKM'25` [Tide: A Time-Wise Causal Debiasing Framework for Generative Dynamic Link Prediction](https://dl.acm.org/doi/abs/10.1145/3746252.3761182), Xin Zhang, Jianming Zheng, Fei Cai, **Zhiqiang Pan**, Wanyu Chen, Chonghao Chen, Honghui Chen, The 34th ACM International Conference on Information and Knowledge Management (CIKM), 2025. \| [**PDF**](https://nudtzpan.github.io/files/CIKM25-Tide.pdf)
