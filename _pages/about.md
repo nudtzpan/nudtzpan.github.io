@@ -67,3 +67,7 @@ I am currently a lecturer at the National Key Laboratory of Information Systems 
 # 💻 Experiences
 - *2026.06 - Present*, Postdoc, University of Science and Technology of China.
 - *2025.07 - Present*, Lecturer, National University of Defense Technology.
+
+# 🙋 Service
+- **Journal Reviewer**: ACM TOIS, IEEE TKDE, IEEE TNNLS, etc.
+- **Conference Reviewer**: SIGIR, WWW, KDD, CIKM, etc.
