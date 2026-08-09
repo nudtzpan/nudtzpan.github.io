@@ -22,7 +22,7 @@ I am working as a lecturer at National Key Laboratory of Information Systems Eng
 # 🔥 News
 - *2026.04*: &nbsp;🎉🎉🎉 One paper is accepted by SIGIR 2026.
 
-# 📝 Selected Publications <a href="https://scholar.google.com/citations?user=A4AdBxUAAAAJ&hl=zh-CN&oi=ao" style="font-size:1em; text-decoration:none; font-weight:normal;">(view all &raquo;)</a>
+# 📝 Selected Publications <a href="https://scholar.google.com/citations?user=A4AdBxUAAAAJ&hl=zh-CN&oi=ao" style="font-size:0.8em; text-decoration:none; font-weight:normal;">(view all &raquo;)</a>
 <span style="font-size: 90%;">*\* Equal Contribution, † Corresponding Author*</span>
 
 #### 📚 Journals
