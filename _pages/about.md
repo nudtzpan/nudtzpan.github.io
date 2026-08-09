@@ -51,11 +51,10 @@ I am working as a lecturer at National Key Laboratory of Information Systems Eng
 - [An Intent-guided Collaborative Machine for Session-based Recommendation](https://dl.acm.org/doi/abs/10.1145/3397271.3401273), **Zhiqiang Pan**, Fei Cai, Yanxiang Ling, Maarten de Rijke, The 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2020. \| [**PDF**](https://nudtzpan.github.io/files/SIGIR20-ICMSR.pdf)
 
 # 🎖 Honors and Awards
-- *2026.07* Postdoctoral Innovative Talent Support Program. (博士后创新人才支持计划)
-- *2026.07* First Prize for Technical Invention of CICC. (中国指挥与控制学会技术发明一等奖)
-- *2025.12* First Prize for Technical Invention of CICC. (中国指挥与控制学会技术发明一等奖)
-- *2025.12* NUDT Outstanding Ph.D. Dissertation. (国防科技大学优秀博士学位论文)
-- *2022.06* Hunan Provincial Excellent M.S. Thesis. (湖南省优秀硕士学位论文)
+- *2026.07* Postdoctoral Innovative Talent Support Program (博士后创新人才支持计划).
+- *2025.12* First Prize for Technical Invention of CICC (中国指挥与控制学会技术发明一等奖), 5/15.
+- *2025.12* NUDT Outstanding Ph.D. Dissertation (国防科技大学优秀博士学位论文).
+- *2022.06* Hunan Provincial Excellent M.S. Thesis (湖南省优秀硕士学位论文).
 
 # 📖 Educations
 - *2022.03 - 2025.06*, Ph.D, National University of Defense Technology, Changsha, China.
