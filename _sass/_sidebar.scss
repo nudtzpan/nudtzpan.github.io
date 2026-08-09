@@ -71,6 +71,7 @@
 .profile_box{
   @include breakpoint($large) {
     display: block;
+    text-align: center;
   }
   display: flex;
   justify-content: flex-start;
@@ -87,11 +88,14 @@
 
   @include breakpoint($large) {
     display: block;
-    width: auto;
+    width: 100%;
     height: auto;
   }
 
   img {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
     max-width: 175px;
     min-width: 75px;
     border-radius: 50%;
