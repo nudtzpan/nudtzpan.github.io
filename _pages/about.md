@@ -65,4 +65,4 @@ I am currently working as a lecturer at the National Key Laboratory of Informati
 
 # 💻 Experiences
 - *2026.06 - Present*, Postdoc, University of Science and Technology of China.
-- *2025.06 - Present*, Lecturer, National University of Defense Technology.
+- *2025.07 - Present*, Lecturer, National University of Defense Technology.
