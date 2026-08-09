@@ -27,9 +27,9 @@ author:
   location         : "Changsha, China"
   employer         :
   pubmed           :
-  googlescholar    :
-  email            :
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=A4AdBxUAAAAJ&hl=zh-CN&oi=ao"
+  email            : "panzhiqiang@nudt.edu.cn"
+  researchgate     : "https://www.researchgate.net/scientific-contributions/Zhiqiang-Pan-2211959418"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,14 +37,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "nudtzpan"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  dblp             : "https://dblp.org/pid/178/6933.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
