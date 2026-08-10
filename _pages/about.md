@@ -22,7 +22,13 @@ redirect_from:
 I am currently a lecturer at the National Key Laboratory of Information Systems Engineering (信息系统工程全国重点实验室), College of Systems Engineering (系统工程学院), National University of Defense Technology. I am also a postdoctoral researcher at the Lab for Data Science (数据科学实验室), School of Artificial Intelligence and Data Science (人工智能与数据科学学院), University of Science and Technology of China, advised by Prof. [Yaonan Wang (王耀南)](https://ngcee.hnu.edu.cn/szdw/dsdw/xnbssds/rgzn/wyn.htm) and Prof. [Xiangnan He (何向南)](https://hexiangnan.github.io/). I received the Ph.D. degree from National University of Defense Technology in 2025, supervised by Prof. Honghui Chen (陈洪辉) and Prof. [Fei Cai (蔡飞)](https://scholar.google.com/citations?user=BjaVKTwAAAAJ&hl=zh-CN). I was also a visiting Ph.D. student at Tsinghua University from 2023 to 2024, advised by Prof. [Yong Li (李勇)](https://fi.ee.tsinghua.edu.cn/~liyong/) and Prof. [Chen Gao (高宸)](https://fi.ee.tsinghua.edu.cn/~gaochen/). My research interest includes complex networks, graph analytics and recommender systems. I have published over 40 papers including top-tier journals and conferences such as TOIS, SIGIR, WWW, etc. If you are seeking any form of academic cooperation, please feel free to email me at [panzhiqiang@nudt.edu.cn](mailto:panzhiqiang@nudt.edu.cn).
 
 # 🔥 News
-- *2026.04*: &nbsp;🎉🎉🎉 One paper is accepted by SIGIR 2026.
+- *2026.07*: &nbsp; I am awarded the National Postdoctoral Innovation Talent Support Program.
+- *2026.04*: &nbsp; One paper is accepted by SIGIR 2026. Congrats to Yuzhuo.
+- *2026.02*: &nbsp; One paper is accepted by Advanced Engineering Informatics. Congrats to Yuzhuo.
+- *2025.12*: &nbsp; I am awarded the First Prize for Technical Invention of CICC.
+- *2025.12*: &nbsp; I am awarded the NUDT Outstanding Ph.D. Dissertation.
+- *2025.11*: &nbsp; One paper is accepted by Information Fusion. Congrats to Lin.
+- *2025.08*: &nbsp; One paper is accepted by CIKM 2026. Congrats to Xin.
 
 # 📝 Selected Publications <span style="font-size:0.8em; font-weight:normal;">(view all: <a href="https://scholar.google.com/citations?user=A4AdBxUAAAAJ&hl=zh-CN&oi=ao" style="text-decoration:none;"><span style="display:inline-flex; align-items:center; gap:0.15em;"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</span></a> / <a href="https://nudtzpan.github.io/files/paperlist/cv.pdf" style="text-decoration:none;"><span style="display:inline-flex; align-items:center; gap:0.15em;">📚 Paper List</span></a>)</span>
 <span style="font-size: 90%;">*\* Equal Contribution, † Corresponding Author*</span>
