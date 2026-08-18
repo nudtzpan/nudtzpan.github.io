@@ -23,12 +23,9 @@ I am currently a lecturer at the National Key Laboratory of Information Systems 
 
 # 🔥 News
 - *2026.07*: &nbsp; I am awarded the National Postdoctoral Innovation Talent Support Program.
-- *2026.04*: &nbsp; One paper is accepted by SIGIR 2026. Congrats to Yuzhuo.
-- *2026.02*: &nbsp; One paper is accepted by Advanced Engineering Informatics. Congrats to Yuzhuo.
 - *2025.12*: &nbsp; I am awarded the First Prize for Technical Invention of CICC.
 - *2025.12*: &nbsp; I am awarded the NUDT Outstanding Ph.D. Dissertation.
 - *2025.11*: &nbsp; One paper is accepted by Information Fusion. Congrats to Lin.
-- *2025.08*: &nbsp; One paper is accepted by CIKM 2026. Congrats to Xin.
 
 # 📝 Selected Publications <span style="font-size:0.8em; font-weight:normal;">(view all: <a href="https://scholar.google.com/citations?user=A4AdBxUAAAAJ&hl=zh-CN&oi=ao" style="text-decoration:none;"><span style="display:inline-flex; align-items:center; gap:0.15em;"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</span></a> / <a href="https://nudtzpan.github.io/files/paperlist/cv.pdf" style="text-decoration:none;"><span style="display:inline-flex; align-items:center; gap:0.15em;">📚 Paper List</span></a>)</span>
 <span style="font-size: 90%;">*\* Equal Contribution, † Corresponding Author*</span>
