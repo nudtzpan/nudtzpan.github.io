@@ -27,8 +27,7 @@ I am currently a lecturer at the National Key Laboratory of Information Systems 
 - *2025.12*: &nbsp; I am awarded the NUDT Outstanding Ph.D. Dissertation.
 - *2025.11*: &nbsp; One paper is accepted by Information Fusion. Congrats to Lin.
 
-# 📝 Selected Publications <span style="font-size:0.8em; font-weight:normal;">(view all: <a href="https://scholar.google.com/citations?user=A4AdBxUAAAAJ&hl=zh-CN&oi=ao" style="text-decoration:none;"><span style="display:inline-flex; align-items:center; gap:0.15em;"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</span></a> / <a href="https://nudtzpan.github.io/files/paperlist/cv.pdf" style="text-decoration:none;"><span style="display:inline-flex; align-items:center; gap:0.15em;">📚 Paper List</span></a>)</span>
-<span style="font-size: 90%;">*† Corresponding Author*</span>
+# 📝 Selected Publications <span style="font-size:0.8em; font-weight:normal;">(† corresponding Author, view all: <a href="https://scholar.google.com/citations?user=A4AdBxUAAAAJ&hl=zh-CN&oi=ao" style="text-decoration:none;"><span style="display:inline-flex; align-items:center; gap:0.15em;"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</span></a> / <a href="https://nudtzpan.github.io/files/paperlist/cv.pdf" style="text-decoration:none;"><span style="display:inline-flex; align-items:center; gap:0.15em;">📚 Paper List</span></a>)</span>
 
 #### 🔬 Journals
 
