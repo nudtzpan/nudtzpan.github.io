@@ -29,8 +29,6 @@ I am currently a lecturer at the National Key Laboratory of Information Systems 
 
 # 📝 Selected Publications <span style="font-size:0.8em; font-weight:normal;">(† corresponding Author, view all: <a href="https://scholar.google.com/citations?user=A4AdBxUAAAAJ&hl=zh-CN&oi=ao" style="text-decoration:none;"><span style="display:inline-flex; align-items:center; gap:0.15em;"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</span></a> / <a href="https://nudtzpan.github.io/files/paperlist/cv.pdf" style="text-decoration:none;"><span style="display:inline-flex; align-items:center; gap:0.15em;">📚 Paper List</span></a>)</span>
 
-#### 🔬 Journals
-
 - `INFFUS'25` [Multimodal Recommender Systems: A Survey of Representation, Modeling, and Optimization](https://www.sciencedirect.com/science/article/abs/pii/S156625352501053X), Lin Pan, **Zhiqiang Pan**†, Fei Cai, Honghui Chen, Information Fusion, 2025. \| [**PDF**](https://nudtzpan.github.io/files/25INFFUS-Survey.pdf)
 - `TOIS'25` [Light Dynamic Graph Learning on Temporal Networks](https://dl.acm.org/doi/abs/10.1145/3745024), **Zhiqiang Pan**, Chen Gao, Fei Cai, Honghui Chen, Yong Li, ACM Transactions on Information Systems, 2025. \| [**PDF**](https://nudtzpan.github.io/files/25TOIS-LightDyG.pdf)
 - `WWW'25` [On the Cross-Graph Transferability of Dynamic Link Prediction](https://dl.acm.org/doi/10.1145/3696410.3714712), **Zhiqiang Pan**, Chen Gao, Fei Cai, Wanyu Chen, Xin Zhang, Honghui Chen, Yong Li, The Web Conference 2025 (WWW), 2025. \| [**PDF**](https://nudtzpan.github.io/files/25WWW-CrossDyG.pdf)
@@ -47,9 +45,7 @@ I am currently a lecturer at the National Key Laboratory of Information Systems 
 - *2026.07* National Postdoctoral Innovation Talent Support Program (国家博士后创新人才支持计划).
 - *2025.12* First Prize for Technical Invention of CICC (指挥与控制学会技术发明一等奖), 5/15.
 - *2025.12* NUDT Outstanding Ph.D. Dissertation (国防科技大学优秀博士学位论文).
-- *2024.12* NUDT Doctoral Qiangjun Scholarship (国防科技大学博士强军奖学金).
-- *2022.06* Hunan Provincial Excellent M.S. Thesis (湖南省优秀硕士学位论文).
-- *2021.12* NUDT Master's Qiangjun Scholarship (国防科技大学硕士强军奖学金).
+- *2024.12* Hunan Provincial Excellent M.S. Thesis (湖南省优秀硕士学位论文).
 
 # 📖 Educations
 - *2022.03 - 2025.06*, Ph.D., National University of Defense Technology, Changsha, China.
