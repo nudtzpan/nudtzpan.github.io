@@ -42,20 +42,22 @@ I am currently a lecturer at the National Key Laboratory of Information Systems 
 - `SIGIR'20` [An Intent-guided Collaborative Machine for Session-based Recommendation](https://dl.acm.org/doi/abs/10.1145/3397271.3401273), **Zhiqiang Pan**, Fei Cai, Yanxiang Ling, Maarten de Rijke, The 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2020. \| [**PDF**](https://nudtzpan.github.io/files/20SIGIR-ICMSR.pdf)
 
 # 🎖 Honors and Awards
+- *2026.08* CICC Outstanding Ph.D. Dissertation (指挥与控制学会优秀博士学位论文).
 - *2026.07* National Postdoctoral Innovation Talent Support Program (国家博士后创新人才支持计划).
 - *2025.12* First Prize for Technical Invention of CICC (指挥与控制学会技术发明一等奖), 5/15.
 - *2025.12* NUDT Outstanding Ph.D. Dissertation (国防科技大学优秀博士学位论文).
-- *2024.12* Hunan Provincial Excellent M.S. Thesis (湖南省优秀硕士学位论文).
 
-# 📖 Educations
-- *2022.03 - 2025.06*, Ph.D., National University of Defense Technology, Changsha, China.
-- *2019.09 - 2021.12*, Master, National University of Defense Technology, Changsha, China.
-- *2015.09 - 2019.06*, Bachelor, National University of Defense Technology, Changsha, China.
+# 💻 Research Projects
+- Young Scientists Fund of the National Natural Science Foundation of China, 2027-2029, PI
+- National Postdoctoral Innovation Talent Support Program, 2026-2028, PI
 
-# 💻 Experiences
+# 📖 Educations and Experiences
 - *2026.06 - Present*, Postdoc, University of Science and Technology of China.
 - *2025.07 - Present*, Lecturer, National University of Defense Technology.
+- *2022.03 - 2025.06*, Ph.D., National University of Defense Technology.
+- *2019.09 - 2021.12*, Master, National University of Defense Technology.
+- *2015.09 - 2019.06*, Bachelor, National University of Defense Technology.
 
-# 🙋 Service
+# 🙋 Academic Service
 - **Journal Reviewer**: ACM TOIS, IEEE TKDE, IEEE TNNLS, etc.
 - **Conference Reviewer**: SIGIR, WWW, KDD, CIKM, etc.
