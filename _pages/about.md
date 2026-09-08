@@ -50,7 +50,7 @@ I am currently a lecturer at the National Key Laboratory of Information Systems 
 - *2025.12* NUDT Outstanding Ph.D. Dissertation (国防科技大学优秀博士学位论文).
 
 # 💻 Research Projects
-- Young Scientists Fund of the National Natural Science Foundation of China (国家自然科学基金青年项目), 2027-2029, PI
+- Young Scientists Fund of the National Natural Science Foundation of China (国家自然科学基金青年项目C类), 2027-2029, PI
 - National Postdoctoral Innovation Talent Support Program (国家博士后创新人才支持计划), 2026-2028, PI
 
 # 📖 Educations and Experiences
