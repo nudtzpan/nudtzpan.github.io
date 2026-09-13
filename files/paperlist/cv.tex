@@ -31,6 +31,9 @@
 \usepackage[normalem]{ulem}
 \usepackage{soul}
 
+\newcommand{\firstauthor}{\,{\color{basecolor}\faStar}}
+\newcommand{\corrauthor}{\,{\color{basecolor}\faEnvelope}}
+
 \begin{document}
 	\makecvheader
     \DTMlangsetup{showdayofmonth=true}
@@ -41,12 +44,15 @@
 
 \vspace{10pt}
 
+\noindent \small{{\color{basecolor}\faStar}~First Author \quad {\color{basecolor}\faEnvelope}~Corresponding Author}
+\vspace{2mm}
+
 \begin{publications}
 	\multicolumn{2}{l}{\textbf{\large In the Year of 2026:}} \\[1.5mm]
 	\publication
 	{\textbf{\textit{面向动态环境的网络链路预测方法}}}{[\href{}{\small{\linkSymbol}}]}
 	{\underline{\smash{Zhiqiang Pan}}, Fei Cai, Xin Zhang, Wanyu Chen, Taihua Shao, Honghui Chen}
-	{CNJ} {\textbf{\textit{指挥与控制学报}}
+	{CNJ\firstauthor} {\textbf{\textit{指挥与控制学报}}
 	} {48}
 	
 	\publication
@@ -89,7 +95,7 @@
 	\publication
 	{Multimodal Recommender Systems: A Survey of Representation, Modeling, and Optimization}{[\href{https://www.sciencedirect.com/science/article/abs/pii/S156625352501053X}{\small{\linkSymbol}}]}
 	{Lin Pan, \underline{\smash{Zhiqiang Pan}}\dag, Fei Cai, Honghui Chen \small{(\dag = Corresponding)}}
-	{INFFUS'25} {Information Fusion
+	{INFFUS'25\corrauthor} {Information Fusion
 	} {41}
 
 	\publication
@@ -113,7 +119,7 @@
 	\publication
 	{Light Dynamic Graph Learning on Temporal Networks}{[\href{https://dl.acm.org/doi/abs/10.1145/3745024}{\small{\linkSymbol}}]}
 	{\underline{\smash{Zhiqiang Pan}}, Chen Gao, Fei Cai, Honghui Chen, Yong Li}
-	{TOIS'25} {ACM Transactions on Information Systems
+	{TOIS'25\firstauthor} {ACM Transactions on Information Systems
 	} {37}
 
 	\publication
@@ -155,13 +161,13 @@
 	\publication
 	{On the Cross-Graph Transferability of Dynamic Link Prediction}{~ [\href{https://dl.acm.org/doi/10.1145/3696410.3714712}{\small{\linkSymbol}}]}
 	{\underline{\smash{Zhiqiang Pan}}, Chen Gao, Fei Cai, Wanyu Chen, Xin Zhang, Honghui Chen, Yong Li}
-	{WWW'25} {The Web Conference 2025
+	{WWW'25\firstauthor} {The Web Conference 2025
 	} {30}
 
 	\publication
 	{Time-aware Graph Learning for Link Prediction on Temporal Networks}{[\href{https://ieeexplore.ieee.org/document/10937920}{\small{\linkSymbol}}]}
 	{\underline{\smash{Zhiqiang Pan}}, Honghui Chen, Wanyu Chen, Fei Cai, Xinwang Liu}
-	{TNNLS'25} {IEEE Transactions on Neural Networks and Learning Systems
+	{TNNLS'25\firstauthor} {IEEE Transactions on Neural Networks and Learning Systems
 	} {29}
 	
 	\multicolumn{2}{l}{\rule{0pt}{4.5ex}\textbf{\large In the Year of 2024:}} \\[1.5mm]
@@ -174,7 +180,7 @@
 	\publication
 	{Inductive Link Prediction on Temporal Networks through Causal Inference}{[\href{https://www.sciencedirect.com/science/article/abs/pii/S0020025524011162}{\small{\linkSymbol}}]}
 	{\underline{\smash{Zhiqiang Pan}}, Fei Cai, Wanyu Chen, Taihua Shao, Yupu Guo, Honghui Chen}
-	{INS'24} {Information Sciences
+	{INS'24\firstauthor} {Information Sciences
 	} {27}
 
 	\publication
@@ -198,7 +204,7 @@
 	\publication
 	{Correlation-enhanced Dynamic Graph Learning for Temporal Link Prediction}{[\href{https://ieeexplore.ieee.org/document/10570036}{\small{\linkSymbol}}]}
 	{Junzhe Chen, \underline{\smash{Zhiqiang Pan}}\dag, Honghui Chen \small{(\dag = Corresponding)}}
-	{EAIS'24} {IEEE International Conference on Evolving and Adaptive Intelligent Systems
+	{EAIS'24\corrauthor} {IEEE International Conference on Evolving and Adaptive Intelligent Systems
 	} {23}
 	
 	\multicolumn{2}{l}{\rule{0pt}{4.5ex}\textbf{\large In the Year of 2023:}} \\[1.5mm]
@@ -211,7 +217,7 @@
 	\publication
 	{Distance-aware Learning for Inductive Link Prediction on Temporal Networks}{[\href{https://ieeexplore.ieee.org/document/10319833}{\small{\linkSymbol}}]}
 	{\underline{\smash{Zhiqiang Pan}}, Fei Cai, Xinwang Liu, Honghui Chen}
-	{TNNLS'23} {IEEE Transactions on Neural Networks and Learning Systems
+	{TNNLS'23\firstauthor} {IEEE Transactions on Neural Networks and Learning Systems
 	} {21}
 
 	\publication
@@ -230,7 +236,7 @@
 	\publication
 	{Exploring Latent Connections in Graph Neural Networks for Session-based Recommendation}{[\href{https://link.springer.com/article/10.1007/s10791-022-09412-z}{\small{\linkSymbol}}]}
 	{Fei Cai, \underline{\smash{Zhiqiang Pan}}\dag, Chengyu Song, Xin Zhang \small{(\dag = Corresponding)}}
-	{IRJ'22} {Information Retrieval Journal
+	{IRJ'22\corrauthor} {Information Retrieval Journal
 	} {18}
 
 	\publication	
@@ -242,26 +248,26 @@
 	\publication
 	{Co-Attentive Graph Learning for Session-based Recommendation}{[\href{https://ieeexplore.ieee.org/document/9943878}{\small{\linkSymbol}}]}
 	{Fei Cai, \underline{\smash{Zhiqiang Pan}}\dag \small{(\dag = Corresponding)}}
-	{DSIT'22} {The 5th International Conference on Data Science and Information Technology
+	{DSIT'22\corrauthor} {The 5th International Conference on Data Science and Information Technology
 	} {16}
 
 	\publication
 	{Session-based Recommendation with an Importance Extraction Module}{[\href{https://link.springer.com/article/10.1007/s00521-022-06966-3}{\small{\linkSymbol}}]}
 	{\underline{\smash{Zhiqiang Pan}}*, Fei Cai, Wanyu Chen*, Honghui Chen \small{(* = Equal Contribution)}}
-	{NCAA'22} {Neural Computing and Applications
+	{NCAA'22\firstauthor} {Neural Computing and Applications
 	} {15}
 
 	\publication
 	{Collaborative Graph Learning for Session-based Recommendation}{[\href{https://dl.acm.org/doi/10.1145/3490479}{\small{\linkSymbol}}]}
 	{\underline{\smash{Zhiqiang Pan}}, Fei Cai, Wanyu Chen, Chonghao Chen, Honghui Chen}
-	{TOIS'22} {ACM Transactions on Information Systems
+	{TOIS'22\firstauthor} {ACM Transactions on Information Systems
 	} {14}
 	
 	\multicolumn{2}{l}{\rule{0pt}{4.5ex}\textbf{\large In the Year of 2021:}} \\[1.5mm]
 	\publication 
 	{Graph Co-Attentive Session-based Recommendation}{[\href{https://dl.acm.org/doi/abs/10.1145/3486711}{\small{\linkSymbol}}]}
 	{\underline{\smash{Zhiqiang Pan}}, Fei Cai, Wanyu Chen, Honghui Chen}
-	{TOIS'21} {ACM Transactions on Information Systems
+	{TOIS'21\firstauthor} {ACM Transactions on Information Systems
 	} {13}
 	
 	\publication
@@ -273,50 +279,50 @@
 	\publication
 	{Efficient Graph Collaborative Filtering via Contrastive Learning}{[\href{https://www.mdpi.com/1424-8220/21/14/4666}{\small{\linkSymbol}}]}
 	{\underline{\smash{Zhiqiang Pan}}, Honghui Chen}
-	{Sensors'21} {Sensors
+	{Sensors'21\firstauthor} {Sensors
 	} {11}
 
 	\publication
 	{Dynamic Graph Learning for Session-Based Recommendation}{[\href{https://www.mdpi.com/2227-7390/9/12/1420}{\small{\linkSymbol}}]}
 	{\underline{\smash{Zhiqiang Pan}}, Wanyu Chen, Honghui Chen}
-	{Mathematics'21} {Mathematics
+	{Mathematics'21\firstauthor} {Mathematics
 	} {10}
 
 	\publication
 	{Collaborative Knowledge-Enhanced Recommendation with Self-Supervisions}{[\href{https://www.mdpi.com/2227-7390/9/17/2129}{\small{\linkSymbol}}]}
 	{\underline{\smash{Zhiqiang Pan}}, Honghui Chen}
-	{Mathematics'21} {Mathematics
+	{Mathematics'21\firstauthor} {Mathematics
 	} {9}
 
 	\multicolumn{2}{l}{\rule{0pt}{4.5ex}\textbf{\large In the Year of 2020:}} \\[1.5mm]
 	\publication
 	{A Hybrid-Preference Neural Model for Basket-Sensitive Item Recommendation}{[\href{https://ieeexplore.ieee.org/document/9294065/}{\small{\linkSymbol}}]}
 	{\underline{\smash{Zhiqiang Pan}}, Wanyu Chen, Honghui Chen}
-	{ACCESS'20} {IEEE ACCESS
+	{ACCESS'20\firstauthor} {IEEE ACCESS
 	} {8}
 
 	\publication
 	{Star Graph Neural Networks for Session-based Recommendation}{[\href{https://dl.acm.org/doi/abs/10.1145/3340531.3412014}{\small{\linkSymbol}}]}
 	{\underline{\smash{Zhiqiang Pan}}, Fei Cai, Wanyu Chen, Honghui Chen, Maarten de Rijke}
-	{CIKM'20} {The 29th ACM International Conference on Information and Knowledge Management
+	{CIKM'20\firstauthor} {The 29th ACM International Conference on Information and Knowledge Management
 	} {7}
 	
 	\publication
 	{Rethinking Item Importance in Session-based Recommendation}{[\href{https://dl.acm.org/doi/10.1145/3397271.3401274}{\small{\linkSymbol}}]}
 	{\underline{\smash{Zhiqiang Pan}}, Fei Cai, Yanxiang Ling, Maarten de Rijke}
-	{SIGIR'20} {The 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval
+	{SIGIR'20\firstauthor} {The 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval
 	} {6}
 	
 	\publication
 	{An Intent-guided Collaborative Machine for Session-based Recommendation}{[\href{https://dl.acm.org/doi/abs/10.1145/3397271.3401273}{\small{\linkSymbol}}]}
 	{\underline{\smash{Zhiqiang Pan}}, Fei Cai, Yanxiang Ling, Maarten de Rijke}
-	{SIGIR'20} {The 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval
+	{SIGIR'20\firstauthor} {The 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval
 	} {5}
 
 	\publication
 	{\textbf{\textit{军事信息主动推荐系统框架研究}}}{[\href{https://d.wanfangdata.com.cn/periodical/hlyzhkz202004035}{\small{\linkSymbol}}]}
 	{\underline{\smash{Zhiqiang Pan}}, Zheng Deng, Honghui Chen}
-	{CNJ'20} {\textbf{\textit{火力指挥与控制}}
+	{CNJ'20\firstauthor} {\textbf{\textit{火力指挥与控制}}
 	} {4}
 
 	\multicolumn{2}{l}{\rule{0pt}{4.5ex}\textbf{\large In the Year of 2019:}} \\[1.5mm]
