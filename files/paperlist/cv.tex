@@ -33,10 +33,12 @@
 
 % colored badge: \badge{<background color>}{<text>}
 \newcommand{\badge}[2]{{\setlength{\fboxsep}{1.2pt}\colorbox{#1}{\textcolor{white}{\textup{\textbf{\footnotesize #2}}}}}}
+% outlined badge (for venue ranks): colored frame + colored text on white
+\newcommand{\badgeoutline}[2]{{\setlength{\fboxsep}{1.2pt}\fcolorbox{#1}{white}{\textcolor{#1}{\textup{\textbf{\footnotesize #2}}}}}}
 \newcommand{\firstauthor}{\badge{basecolor}{First Author}}
 \newcommand{\corrauthor}{\badge{TealBlue}{Corresponding Author}}
-\newcommand{\ccfa}{\badge{BrickRed}{CCF-A}}
-\newcommand{\casqone}{\badge{ForestGreen}{CAS Q1}}
+\newcommand{\ccfa}{\badgeoutline{BrickRed}{CCF-A}}
+\newcommand{\casqone}{\badgeoutline{ForestGreen}{CAS Q1}}
 % local pdf link
 \newcommand{\pdflink}[1]{[\href{https://nudtzpan.github.io/files/#1}{\small{PDF}}]}
 
