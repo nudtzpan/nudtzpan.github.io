@@ -42,10 +42,6 @@ I am currently a lecturer at the National Key Laboratory of Information Systems 
 - `TOIS'22` [Collaborative Graph Learning for Session-based Recommendation](https://dl.acm.org/doi/10.1145/3490479), **Zhiqiang Pan**, Fei Cai, Wanyu Chen, Chonghao Chen, Honghui Chen, ACM Transactions on Information Systems, 2022. \| [**PDF**](https://nudtzpan.github.io/files/22TOIS-CGL.pdf)
 - `TOIS'21` [Graph Co-Attentive Session-based Recommendation](https://dl.acm.org/doi/abs/10.1145/3486711), **Zhiqiang Pan**, Fei Cai, Wanyu Chen, Honghui Chen, ACM Transactions on Information Systems, 2021. \| [**PDF**](https://nudtzpan.github.io/files/21TOIS-GCARM.pdf)
 - `CIKM'20` [Star Graph Neural Networks for Session-based Recommendation](https://dl.acm.org/doi/abs/10.1145/3340531.3412014), **Zhiqiang Pan**, Fei Cai, Wanyu Chen, Honghui Chen, Maarten de Rijke, The 29th ACM International Conference on Information and Knowledge Management (CIKM), 2020. \| [**PDF**](https://nudtzpan.github.io/files/20CIKM-SGNNHN.pdf)
-<!--
-- `SIGIR'20` [Rethinking Item Importance in Session-based Recommendation](https://dl.acm.org/doi/10.1145/3397271.3401274), **Zhiqiang Pan**, Fei Cai, Yanxiang Ling, Maarten de Rijke, The 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2020. \| [**PDF**](https://nudtzpan.github.io/files/20SIGIR-SRIEM.pdf)
-- `SIGIR'20` [An Intent-guided Collaborative Machine for Session-based Recommendation](https://dl.acm.org/doi/abs/10.1145/3397271.3401273), **Zhiqiang Pan**, Fei Cai, Yanxiang Ling, Maarten de Rijke, The 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2020. \| [**PDF**](https://nudtzpan.github.io/files/20SIGIR-ICMSR.pdf)
--->
 
 # 🎖 Honors and Awards
 - *2026.08* CICC Outstanding Ph.D. Dissertation (指挥与控制学会优秀博士学位论文).
