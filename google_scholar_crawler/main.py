@@ -21,3 +21,10 @@ shieldio_data = {
 }
 with open(f'results/gs_data_shieldsio.json', 'w') as outfile:
     json.dump(shieldio_data, outfile, ensure_ascii=False)
+
+papers = {}
+for pub in author['publications'].values():
+    title = pub['bib']['title'].lower()
+    papers[title] = pub.get('num_citations', 0)
+with open(f'results/gs_papers.json', 'w') as outfile:
+    json.dump(papers, outfile, ensure_ascii=False)

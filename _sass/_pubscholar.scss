@@ -1,0 +1,31 @@
+/* ==========================================================================
+   Google Scholar citation badge (split chip style)
+   ========================================================================== */
+
+.pub-scholar {
+  display: inline-flex;
+  align-items: stretch;
+  border-radius: 0.3em;
+  overflow: hidden;
+  color: #233247;
+  font: 600 0.72em/1.75 $sans-serif;
+  text-decoration: none;
+}
+
+.pub-scholar-label {
+  padding: 0 0.48em;
+  background: #edf0f4;
+
+  i {
+    margin-right: 0.12em;
+    color: #3479dc;
+  }
+}
+
+.pub-scholar-count {
+  min-width: 2em;
+  padding: 0 0.45em;
+  background: #a2c9f3;
+  text-align: center;
+  font-variant-numeric: tabular-nums;
+}
